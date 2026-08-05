@@ -1,0 +1,88 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  line-height: 1.6;
+  color: #333;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 2rem;
+  background: #222;
+  color: #fff;
+}
+header nav a {
+  color: #fff;
+  margin-left: 1rem;
+  text-decoration: none;
+}
+.hero {
+  background: url('images/banner.jpg') no-repeat center center/cover;
+  color: #fff;
+  text-align: center;
+  padding: 6rem 2rem;
+}
+.hero .btn {
+  margin: 1rem;
+}
+.section {
+  padding: 3rem 2rem;
+  text-align: center;
+}
+.section.alt {
+  background: #f5f5f5;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+.card {
+  background: #fff;
+  padding: 1.5rem;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.features {
+  list-style: none;
+  padding: 0;
+}
+.features li {
+  margin: 0.5rem 0;
+}
+.process {
+  list-style: decimal;
+  text-align: left;
+  max-width: 400px;
+  margin: 0 auto;
+}
+.contact-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.qr {
+  width: 150px;
+  margin-bottom: 1rem;
+}
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background: #ff9800;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 4px;
+}
+.btn.secondary {
+  background: #555;
+}
+.hidden {
+  display: none;
+}
+footer {
+  background: #222;
+  color: #fff;
+  text-align: center;
+  padding: 1rem;
+}
