@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 180" role="img" aria-labelledby="title desc">
+<title id="title">R-Tech Energy Solutions</title>
+<desc id="desc">A solar sunrise over a roof forming the letter R beside the company name.</desc>
+<defs>
+  <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#16477a"/>
+    <stop offset="1" stop-color="#061d35"/>
+  </linearGradient>
+</defs>
+<g transform="translate(12 10)">
+  <g transform="translate(0 0)">
+    <path d="M82 13v18M45 23l9 16M18 50l16 9M8 88h18M138 23l-9 16M165 50l-16 9M175 88h-18"
+          stroke="#f7b500" stroke-width="6" stroke-linecap="round"/>
+    <path d="M29 92a62 62 0 0 1 124 0" fill="none" stroke="#f7b500" stroke-width="8"/>
+    <path d="M24 133 81 79l62 54z" fill="url(#panel)" stroke="#0b2d50" stroke-width="5"/>
+    <path d="m46 133 36-34 38 34M81 79v54M48 116h69" fill="none" stroke="#3b83bd" stroke-width="3"/>
+    <path d="M73 70h29c27 0 40 13 40 33 0 14-7 24-20 30l24 33h-31l-20-29H88v29H62V70h11zm15 22v24h12c10 0 16-4 16-12s-6-12-16-12H88z"
+          fill="#fff"/>
+  </g>
+  <g transform="translate(192 38)">
+    <text x="0" y="50" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="800" fill="#0a223d">R-TECH</text>
+    <text x="3" y="91" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700" letter-spacing="1" fill="#f7b500">ENERGY SOLUTIONS</text>
+  </g>
+</g>
+</svg>
